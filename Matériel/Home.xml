@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+<home version='7200' name='Immeuble.sh3d' camera='topCamera' selectedLevel='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallHeight='250.0'>
+  <property name='com.eteks.sweethome3d.SweetHome3D.CatalogPaneDividerLocation' value='520'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ColumnWidths' value='168,98,115,97,89'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameHeight' value='1022'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameMaximized' value='false'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameWidth' value='1847'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameX' value='-223'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameY' value='-1045'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.MainPaneDividerLocation' value='2'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanPaneDividerLocation' value='0'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanScale' value='1.2290516'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportX' value='2249'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportY' value='3421'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenHeight' value='875'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenWidth' value='1440'/>
+  <furnitureVisibleProperty name='NAME'/>
+  <furnitureVisibleProperty name='WIDTH'/>
+  <furnitureVisibleProperty name='DEPTH'/>
+  <furnitureVisibleProperty name='HEIGHT'/>
+  <furnitureVisibleProperty name='VISIBLE'/>
+  <environment groundColor='00A8A8A8' skyColor='00CCE4FC' lightColor='00D0D0D0' allLevelsVisible='true' ceillingLightColor='00D0D0D0' photoWidth='400' photoHeight='300' photoAspectRatio='VIEW_3D_RATIO' photoQuality='0' videoWidth='320' videoAspectRatio='RATIO_4_3' videoQuality='0' videoFrameRate='25'/>
+  <compass x='-100.0' y='50.0' diameter='100.0' northDirection='0.0' longitude='0.14922565' latitude='0.82670426' timeZone='Europe/Zurich'/>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='50.0' y='50.0' z='170.0' yaw='5.4977875' pitch='0.19634955' fieldOfView='1.0995575' time='1703332800000' fixedSize='true'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='-985.05273' y='-3351.7769' z='1691.5917' yaw='5.7316284' pitch='0.17999993' fieldOfView='1.0995575' time='1703332800000'/>
+  <level id='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' name='Rez' elevation='0.0' floorThickness='12.0' height='250.0' elevationIndex='0'/>
+  <level id='level-9010ba37-78fd-44ad-8e68-eaa0ee77ea26' name='Niveau 1' elevation='262.0' floorThickness='12.0' height='250.0' elevationIndex='0'/>
+  <level id='level-04368c96-720c-4025-b544-4e3c236179a2' name='Niveau 2' elevation='524.0' floorThickness='12.0' height='250.0' elevationIndex='0'/>
+  <level id='level-1162b303-46a6-4ac2-a9c7-7725c156aace' name='Niveau 3' elevation='786.0' floorThickness='12.0' height='250.0' elevationIndex='0'/>
+  <level id='level-3d3f0689-cb73-4547-8af4-ce49e3164776' name='Niveau 4' elevation='1048.0' floorThickness='12.0' height='250.0' elevationIndex='0'/>
+  <level id='level-ddb433b2-ab43-4514-8093-6e5c0c9a3af9' name='Toit' elevation='1310.0' floorThickness='12.0' height='250.0' elevationIndex='0'/>
+  <pieceOfFurniture id='pieceOfFurniture-2b532db3-f303-4853-95da-767afb253142' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='0.0' y='0.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-3dbe7536-0af6-4000-8ed3-ec1fa9d226a7' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='0.0' y='3000.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-a853c38f-053e-4f22-accc-e5f5260304b9' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='0.0' y='1500.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-6f455056-d98b-4925-8393-dd51eeca265f' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='2000.0' y='0.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-526cb014-3d78-46cf-b828-53efff87d55c' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='4000.0' y='0.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-052d703f-7565-48f5-a2bc-4cbd88af448d' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='4000.0' y='1500.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-ef0bc322-a20f-46a8-8411-813d202cfa4b' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='4000.0' y='3000.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-2bdf5f04-6141-4c0b-af87-192ccd783982' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='2000.0' y='3000.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-1c082bc6-9129-4da3-8e8e-c25bfabcf802' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='1500.0' y='1750.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-74002668-a4fe-463f-8156-4c9abc92b487' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='1500.0' y='1250.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-fa972fda-de76-447a-8401-1732ec3aeb83' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='2500.0' y='1250.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <pieceOfFurniture id='pieceOfFurniture-95fde75b-fdab-4356-9fc3-8d74cd5b6649' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' catalogId='eTeks#texturableBox' name='Boîte' creator='eTeks' model='1/texturableBox.obj' icon='0' x='2500.0' y='1750.0' elevation='1.0' width='50.0' depth='50.0' height='1300.0' modelSize='1661' license='GNU GPL / CC-BY'/>
+  <wall id='wall-3c12822b-eb2e-459c-a672-42c8145a094a' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-d5e85483-2597-46f9-87a8-cfbee4f20974' wallAtEnd='wall-061e1b54-6079-4575-a46c-ed8c6a8158f2' xStart='900.0' yStart='3000.0' xEnd='1100.0' yEnd='3000.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-061e1b54-6079-4575-a46c-ed8c6a8158f2' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-3c12822b-eb2e-459c-a672-42c8145a094a' wallAtEnd='wall-f8205f19-8a60-47ed-86fc-3f81cbee6392' xStart='1100.0' yStart='3000.0' xEnd='1100.0' yEnd='2800.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-f8205f19-8a60-47ed-86fc-3f81cbee6392' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-061e1b54-6079-4575-a46c-ed8c6a8158f2' wallAtEnd='wall-d5e85483-2597-46f9-87a8-cfbee4f20974' xStart='1100.0' yStart='2800.0' xEnd='900.0' yEnd='2800.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-d5e85483-2597-46f9-87a8-cfbee4f20974' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-f8205f19-8a60-47ed-86fc-3f81cbee6392' wallAtEnd='wall-3c12822b-eb2e-459c-a672-42c8145a094a' xStart='900.0' yStart='2800.0' xEnd='900.0' yEnd='3000.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-99a30d46-3161-430c-9a14-16aa63c68352' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-40818d22-c65d-4f8e-bf58-b7cb19862049' wallAtEnd='wall-4e282f4c-5707-4b42-b70d-f27a037801aa' xStart='2900.0' yStart='2800.0' xEnd='2900.0' yEnd='3000.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-4e282f4c-5707-4b42-b70d-f27a037801aa' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-99a30d46-3161-430c-9a14-16aa63c68352' wallAtEnd='wall-5a7bfa17-277a-498c-a84e-134c7a84e52e' xStart='2900.0' yStart='3000.0' xEnd='3100.0' yEnd='3000.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-5a7bfa17-277a-498c-a84e-134c7a84e52e' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-4e282f4c-5707-4b42-b70d-f27a037801aa' wallAtEnd='wall-40818d22-c65d-4f8e-bf58-b7cb19862049' xStart='3100.0' yStart='3000.0' xEnd='3100.0' yEnd='2800.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <wall id='wall-40818d22-c65d-4f8e-bf58-b7cb19862049' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' wallAtStart='wall-5a7bfa17-277a-498c-a84e-134c7a84e52e' wallAtEnd='wall-99a30d46-3161-430c-9a14-16aa63c68352' xStart='3100.0' yStart='2800.0' xEnd='2900.0' yEnd='2800.0' height='1300.0' thickness='7.5' pattern='hatchUp'/>
+  <room id='room-32f30f4d-344a-45f1-a67f-4c5dd25ef152' level='level-30e939bb-f3b1-4bd8-884f-c3807898a9ee' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Béton brut ' creator='Scopia' catalogId='eTeksScopia#concrete-wall-2' width='100.0' height='100.0' image='2'/>
+    <point x='-0.18014526' y='0.014793396'/>
+    <point x='-0.18014526' y='3000.015'/>
+    <point x='3999.92' y='3000.015'/>
+    <point x='3999.9197' y='0.014793396'/>
+    <point x='2499.6196' y='0.014793396'/>
+    <point x='2499.6196' y='1750.1147'/>
+    <point x='1499.5195' y='1750.1147'/>
+    <point x='1499.5195' y='1250.1147'/>
+    <point x='2499.6196' y='1250.1147'/>
+    <point x='2499.6196' y='0.014793396'/>
+  </room>
+  <room id='room-710362dd-d45f-4b14-9198-88c4818d3bba' level='level-9010ba37-78fd-44ad-8e68-eaa0ee77ea26' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Béton brut ' creator='Scopia' catalogId='eTeksScopia#concrete-wall-2' width='100.0' height='100.0' image='2'/>
+    <point x='-0.18014526' y='0.014793396'/>
+    <point x='-0.18014526' y='3000.015'/>
+    <point x='3999.92' y='3000.015'/>
+    <point x='3999.9197' y='0.014793396'/>
+    <point x='2499.6196' y='0.014793396'/>
+    <point x='2499.6196' y='1750.1147'/>
+    <point x='1499.5195' y='1750.1147'/>
+    <point x='1499.5195' y='1250.1147'/>
+    <point x='2499.6196' y='1250.1147'/>
+    <point x='2499.6196' y='0.014793396'/>
+  </room>
+  <room id='room-ea69ebcf-459b-4a9f-ba1d-2ae7ceed3534' level='level-04368c96-720c-4025-b544-4e3c236179a2' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Béton brut ' creator='Scopia' catalogId='eTeksScopia#concrete-wall-2' width='100.0' height='100.0' image='2'/>
+    <point x='-0.18014526' y='0.014793396'/>
+    <point x='-0.18014526' y='3000.015'/>
+    <point x='3999.92' y='3000.015'/>
+    <point x='3999.9197' y='0.014793396'/>
+    <point x='2499.6196' y='0.014793396'/>
+    <point x='2499.6196' y='1750.1147'/>
+    <point x='1499.5195' y='1750.1147'/>
+    <point x='1499.5195' y='1250.1147'/>
+    <point x='2499.6196' y='1250.1147'/>
+    <point x='2499.6196' y='0.014793396'/>
+  </room>
+  <room id='room-56d03f50-7408-42c4-9dae-c28f5a0a7242' level='level-1162b303-46a6-4ac2-a9c7-7725c156aace' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Béton brut ' creator='Scopia' catalogId='eTeksScopia#concrete-wall-2' width='100.0' height='100.0' image='2'/>
+    <point x='-0.18014526' y='0.014793396'/>
+    <point x='-0.18014526' y='3000.015'/>
+    <point x='3999.92' y='3000.015'/>
+    <point x='3999.9197' y='0.014793396'/>
+    <point x='2499.6196' y='0.014793396'/>
+    <point x='2499.6196' y='1750.1147'/>
+    <point x='1499.5195' y='1750.1147'/>
+    <point x='1499.5195' y='1250.1147'/>
+    <point x='2499.6196' y='1250.1147'/>
+    <point x='2499.6196' y='0.014793396'/>
+  </room>
+  <room id='room-56fe652a-ebf0-4e57-b5f9-8dd32e20cf92' level='level-3d3f0689-cb73-4547-8af4-ce49e3164776' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Béton brut ' creator='Scopia' catalogId='eTeksScopia#concrete-wall-2' width='100.0' height='100.0' image='2'/>
+    <point x='-0.18014526' y='0.014793396'/>
+    <point x='-0.18014526' y='3000.015'/>
+    <point x='3999.92' y='3000.015'/>
+    <point x='3999.9197' y='0.014793396'/>
+    <point x='2499.6196' y='0.014793396'/>
+    <point x='2499.6196' y='1750.1147'/>
+    <point x='1499.5195' y='1750.1147'/>
+    <point x='1499.5195' y='1250.1147'/>
+    <point x='2499.6196' y='1250.1147'/>
+    <point x='2499.6196' y='0.014793396'/>
+  </room>
+  <room id='room-4651d8cb-41b8-4eb4-a106-f5a7e7bf4332' level='level-ddb433b2-ab43-4514-8093-6e5c0c9a3af9' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Gravillon' creator='Scopia' catalogId='eTeksScopia#ground-gravel' width='100.0' height='100.0' image='3'/>
+    <point x='-0.18014526' y='0.014793396'/>
+    <point x='-0.18014526' y='3000.015'/>
+    <point x='3999.92' y='3000.015'/>
+    <point x='3999.9197' y='0.014793396'/>
+    <point x='2499.6196' y='0.014793396'/>
+    <point x='2499.6196' y='1750.1147'/>
+    <point x='1499.5195' y='1750.1147'/>
+    <point x='1499.5195' y='1250.1147'/>
+    <point x='2499.6196' y='1250.1147'/>
+    <point x='2499.6196' y='0.014793396'/>
+  </room>
+</home>
